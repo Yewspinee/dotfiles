@@ -1,0 +1,21 @@
+set $wallpaper /home/dulinniel/Pictures/wallpapers/planets.png
+
+set $background #0f0f0e
+set $foreground #c5c5c3
+
+set $color0 #0f0f0e
+set $color1 #5EA16C
+set $color2 #FDA52E
+set $color3 #C6B862
+set $color4 #576797
+set $color5 #A36B9F
+set $color6 #58A4AB
+set $color7 #c5c5c3
+set $color8 #898988
+set $color9 #5EA16C
+set $color10 #FDA52E
+set $color11 #C6B862
+set $color12 #576797
+set $color13 #A36B9F
+set $color14 #58A4AB
+set $color15 #c5c5c3

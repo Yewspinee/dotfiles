@@ -1,0 +1,6 @@
+[user]
+	name = yewspinee
+  email = email
+
+[core]
+  sshCommand = "ssh -i ~/.ssh/yewspine_github"
